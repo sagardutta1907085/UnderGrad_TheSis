@@ -13,13 +13,10 @@ The codes were actually run in Google Colab, and the dataset was taken as input 
 4. Change the dataset folder's path, and the code is ready to go.
 
 Disclaimer: Do not try to open the code by simply double-clicking it from the local directory. The code might not open properly by doing so.
-
-
 To turn the Android app-
-
-Use at least Android Studio Hedgehog (2023.1.1) or newer versions. Using Dolphin(2021.3.1) or Electric Eel(2022.1.1) may show some Gradle failures. The API Level must be at least 33 or higher to ensure smooth compatibility.
 1. First, open Android Studio.
 2. Upload the whole folder to Android Studio.
 3. Wait for the Gradle to sync properly.
 4. Create an emulator or use any Android device supporting Android version 11 or higher. 
 4. Double-click on the folder in Android Studio, select the app, and hit the run button. The app is ready to go.
+Use at least Android Studio Hedgehog (2023.1.1) or newer versions. Using Dolphin(2021.3.1) or Electric Eel(2022.1.1) may show some Gradle failures. The API Level must be at least 33 or higher to ensure smooth compatibility.
