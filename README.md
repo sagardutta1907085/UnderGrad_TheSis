@@ -19,4 +19,4 @@ To turn the Android app-
 3. Wait for the Gradle to sync properly.
 4. Create an emulator or use any Android device supporting Android version 11 or higher. 
 4. Double-click on the folder in Android Studio, select the app, and hit the run button. The app is ready to go.
-Use at least Android Studio Hedgehog (2023.1.1) or newer versions. Using Dolphin(2021.3.1) or Electric Eel(2022.1.1) may show some Gradle failures. The API Level must be at least 33 or higher to ensure smooth compatibility.
+5. Use at least Android Studio Hedgehog (2023.1.1) or newer versions. Using Dolphin(2021.3.1) or Electric Eel(2022.1.1) may show some Gradle failures. The API Level must be at least 33 or higher to ensure smooth compatibility.
